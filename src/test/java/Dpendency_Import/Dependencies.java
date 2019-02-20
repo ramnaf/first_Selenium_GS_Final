@@ -34,7 +34,7 @@ public class Dependencies {
             driver.navigate().back();
         Mylibrary.sleep(3);
 
-            // go forward:
+            // go forward:ssss
         driver.navigate().forward();
         Mylibrary.sleep(3);
 
