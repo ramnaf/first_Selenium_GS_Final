@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2aa50191-e97a-407b-99c2-d56dae7297b2" name="Default Changelist" comment="" />
+    <list default="true" id="2aa50191-e97a-407b-99c2-d56dae7297b2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/first_Selenium_GS.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Practices/BankRate.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Practices/BankRate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Utilities/Mylibrary.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Utilities/Mylibrary.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,19 +21,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/SimpleReport.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+            <state relative-caret-position="607">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/recap.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+            <state relative-caret-position="380">
+              <caret line="42" column="47" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="42" selection-end-column="47" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -34,31 +45,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/first_Selenium_GS.iml">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_ReportFull.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Elements/elemnts.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="855">
-              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BankRate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            <state relative-caret-position="1200">
+              <caret line="80" column="53" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -69,8 +59,68 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="506">
+              <caret line="40" column="85" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Elements/elemnts.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Annotation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="62">
+              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="206">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BankRate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -97,10 +147,16 @@
       <list>
         <option value="$PROJECT_DIR$/src/test/java/Dpendency_Import/Mylibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/Dpendency_Import/TestingUpdates.java" />
-        <option value="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" />
         <option value="$PROJECT_DIR$/src/test/java/Elements/elemnts.java" />
         <option value="$PROJECT_DIR$/src/test/java/Practices/BankRate.java" />
         <option value="$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/HTML_Report/SimpleReport.java" />
+        <option value="$PROJECT_DIR$/src/test/java/recap.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Annotation.java" />
+        <option value="$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java" />
+        <option value="$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_ReportFull.java" />
       </list>
     </option>
   </component>
@@ -127,11 +183,10 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="49" />
-    <option name="y" value="35" />
-    <option name="width" value="2468" />
-    <option name="height" value="1477" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1680" />
+    <option name="height" value="972" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -139,13 +194,66 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="Reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="captures" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Utilities" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first_Selenium_GS_Final" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first_Selenium_GS_Final" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
-      <pane id="ProjectPane" />
       <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550680765815" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551820625016" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
@@ -168,51 +276,100 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.BankRate">
-    <configuration name="BankRate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Practices.BankRate" />
-      <module name="first_Selenium_GS" />
+  <component name="RunManager" selected="TestNG.TestNG_ReportFull">
+    <configuration name="TestNG_Annotation" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Practices.*" />
+          <option name="PATTERN" value="HTML_Report.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="HTML_Report" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_Annotation" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Dependencies" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Dpendency_Import.Dependencies" />
-      <module name="first_Selenium_GS" />
+    <configuration name="TestNG_Annotation.x5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Dpendency_Import.*" />
+          <option name="PATTERN" value="HTML_Report.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="HTML_Report" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_Annotation" />
+      <option name="METHOD_NAME" value="x5" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="elemnts" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Elements.elemnts" />
-      <module name="first_Selenium_GS" />
+    <configuration name="TestNG_ReportFull" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="first_Selenium_GS_Final" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Elements.*" />
+          <option name="PATTERN" value="HTML_Report.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="HTML_Report" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_ReportFull" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_ReportFull.varifyFaceBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="first_Selenium_GS_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTML_Report.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HTML_Report" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_ReportFull" />
+      <option name="METHOD_NAME" value="varifyFaceBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestNG_ReportFull.verifyFaceBook" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="first_Selenium_GS_Final" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="HTML_Report.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="HTML_Report" />
+      <option name="MAIN_CLASS_NAME" value="HTML_Report.TestNG_ReportFull" />
+      <option name="METHOD_NAME" value="verifyFaceBook" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BankRate" />
-        <item itemvalue="Application.elemnts" />
-        <item itemvalue="Application.Dependencies" />
+        <item itemvalue="TestNG.TestNG_ReportFull" />
+        <item itemvalue="TestNG.TestNG_Annotation" />
+        <item itemvalue="TestNG.TestNG_Annotation.x5" />
+        <item itemvalue="TestNG.TestNG_ReportFull.verifyFaceBook" />
+        <item itemvalue="TestNG.TestNG_ReportFull.varifyFaceBook" />
       </list>
     </recent_temporary>
   </component>
@@ -258,11 +415,43 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="TestNG_ReportFull_verifyFaceBook - 2019.03.05 at 13h 06m 10s.xml">
+      <configuration name="TestNG_ReportFull.verifyFaceBook" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Annotation - 2019.03.05 at 14h 42m 09s.xml">
+      <configuration name="TestNG_Annotation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Annotation - 2019.03.05 at 14h 44m 12s.xml">
+      <configuration name="TestNG_Annotation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Annotation_x5 - 2019.03.05 at 15h 01m 58s.xml">
+      <configuration name="TestNG_Annotation.x5" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_Annotation - 2019.03.05 at 15h 02m 57s.xml">
+      <configuration name="TestNG_Annotation" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_ReportFull - 2019.03.05 at 15h 25m 57s.xml">
+      <configuration name="TestNG_ReportFull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_ReportFull - 2019.03.05 at 15h 26m 31s.xml">
+      <configuration name="TestNG_ReportFull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_ReportFull - 2019.03.05 at 15h 53m 00s.xml">
+      <configuration name="TestNG_ReportFull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_ReportFull - 2019.03.05 at 16h 01m 02s.xml">
+      <configuration name="TestNG_ReportFull" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="TestNG_ReportFull - 2019.03.05 at 16h 07m 31s.xml">
+      <configuration name="TestNG_ReportFull" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="956" extended-state="6" />
+    <frame x="0" y="23" width="1680" height="972" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2722833" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17321429" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -271,15 +460,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.03963012" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4957265" visible="true" weight="0.24306326" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32893" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" visible="true" weight="0.3298611" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50427353" side_tool="true" weight="0.3981588" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32893" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.32893" />
+      <window_info anchor="bottom" id="Messages" order="10" sideWeight="0.495116" weight="0.3263041" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -300,26 +489,23 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/TestingUpdates.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Mylibrary.java" />
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/first_Selenium_GS.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="21" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
+        <state relative-caret-position="15">
+          <caret line="1" column="41" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Elements/elemnts.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="855">
-          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="525">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Practices/BankRate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
+        <state relative-caret-position="405">
           <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -327,27 +513,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/SimpleReport.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        <state relative-caret-position="607">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/first_Selenium_GS.iml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Reports.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="41" lean-forward="true" selection-start-line="1" selection-start-column="41" selection-end-line="1" selection-end-column="41" />
+        <state relative-caret-position="206">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/recap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="42" column="47" lean-forward="true" selection-start-line="40" selection-start-column="8" selection-end-line="42" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Elements/elemnts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="64" column="40" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Dpendency_Import/Dependencies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_Annotation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="62">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/captures/verifyFaceBook.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Utilities/Mylibrary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="40" column="85" selection-start-line="40" selection-start-column="85" selection-end-line="40" selection-end-column="85" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/HTML_Report/TestNG_ReportFull.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1200">
+          <caret line="80" column="53" selection-start-line="80" selection-start-column="53" selection-end-line="80" selection-end-column="53" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
