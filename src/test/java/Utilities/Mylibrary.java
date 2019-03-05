@@ -5,13 +5,14 @@ import org.openqa.selenium.*;
 import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
-
 import java.io.File;
 import java.io.IOException;
 import java.util.List;
 
 
+
 public class Mylibrary {
+
 
     public static Actions act;
 
@@ -45,7 +46,6 @@ public class Mylibrary {
 
     }
     public static void scrollplease(WebDriver driver,int y){
-
         JavascriptExecutor mm=(JavascriptExecutor)driver;
         mm.executeScript("scroll(0,"+y+")");
 
@@ -55,7 +55,6 @@ public class Mylibrary {
     }
 
     public  static void waittitle(WebDriverWait wait, String titleContains){
-
         wait.until(ExpectedConditions.titleContains(titleContains));
     }
 

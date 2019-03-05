@@ -9,7 +9,7 @@ import org.openqa.selenium.interactions.Actions;
 
 import java.util.List;
 
-public class BankRate {
+public class BootStraps_Handling {
     public static void main(String[] args) {
         WebDriverManager.chromedriver().setup();
         WebDriver driver=new ChromeDriver();
@@ -24,11 +24,12 @@ public class BankRate {
        List<WebElement> allClickableLink=driver.findElements(By.tagName("a"));
        for(WebElement each: allClickableLink){
            String AA=each.getText();
-           if(AA.equals("Reverse mortgages")){
+           if( AA.equals("Reverse mortgages")){
                each.click();
+               break;
            }
        }
-
+    driver.close();
 
 
     }
